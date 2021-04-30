@@ -1,2 +1,2 @@
 # mech105-algorithms
-Algorithms for MECH 105 using various numerical methods.
+Algorithms developed for MECH105: Problem Solving using various numerical methods in the Matlab environment.
