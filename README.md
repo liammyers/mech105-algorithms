@@ -4,6 +4,4 @@ This repository contains MATLAB algorithims from *Mech 105: Problem Solving* at 
 
 - `script.m` : MATLAB script, m-file
 - `info.md` : Problem information, graphics, images
-- `README.md` : Further explains m-file, inputs, outputs    
-
----
+- `README.md` : Further explains m-file, inputs, outputs
