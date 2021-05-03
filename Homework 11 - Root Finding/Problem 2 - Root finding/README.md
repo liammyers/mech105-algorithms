@@ -1,4 +1,4 @@
-# Homework 11 - Problem 1 Script Info
+# Homework 11 - Problem 2 Script Info
 ---
 `README.md` : Further explains m-file, inputs, outputs    
 
