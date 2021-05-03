@@ -4,10 +4,8 @@
 cylRad = 12.5; 
 cylMaxHeight = 19;
 
-
 % Specify the height of the water
 h = 20;
-
 
 % You can comment / uncomment lines below for testing. This will overwrite the previous line for h = 20.
 % For submission, make sure all of the following lines are commented out and h = 20! (OR IT IS MARKED AS WRONG)
@@ -15,7 +13,6 @@ h = 20;
 %h = 19
 %h = 47
 %h = -1
-
 
 % Now compute the volume. Using conditional statments you will want to first check the height makes sense,
 % and then solve the volume depending on what portion of the tank has been filled.
