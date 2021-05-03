@@ -4,7 +4,7 @@ This repository contains MATLAB algorithims from *Mech 105: Problem Solving* at 
 
 - `script.m` : MATLAB script, m-file
 - `info.md` : Problem information, graphics, images
-- `README.md` : Further explains m-file in particular branch, inputs, outputs    
+- `README.md` : Further explains m-file, inputs, outputs    
 
 <sup>[1](#footnoteUno)</sup>
 <a name = "footnoteUno">1</a>: Note that m-files may not be reused unless express consent is given.  
