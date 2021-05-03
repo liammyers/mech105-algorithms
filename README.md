@@ -1,4 +1,3 @@
 # mech105-algorithms
-Algorithms developed for MECH105 using various numerical methods in the MATLAB programming environment.
 ---
-gggggg
+This repository contains MATLAB algorithims from Mech 105. Each folder represents a homework set consisting of at least one problem.
