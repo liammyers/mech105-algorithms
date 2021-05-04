@@ -1,4 +1,4 @@
-# Homework 02 - Problem 1 Problem Info
+# Homework 02 - Problem 1 Info
 ---
 Consider a simple electric circuit consisting of a resistor, a capacitor, and an inductor as shown below
 <img src = "assets/h0201_0.png" width = "600"> <br />
