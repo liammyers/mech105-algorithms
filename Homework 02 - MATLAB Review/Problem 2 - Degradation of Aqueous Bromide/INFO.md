@@ -1,8 +1,8 @@
 # Homework 02 - Problem 2 Info
 ---
 The photodegradation of aqueous bromide for an particular setup is expected to follow the function:
-<img src = "assets/h0202_0.png" width = "150"> <br />
-where c is the concentration in ppm (parts per million), and t is the time in minutes.
+<img src = "assets/h0202_0.png" width = "200"> <br />
+where c is the concentration in ppm (parts per million), and t is the time in minutes. <br />
 
 For the same setup, an experiment was run and the concentration was measured once every 10 minutes.
 
