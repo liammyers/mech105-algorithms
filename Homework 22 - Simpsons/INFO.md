@@ -11,3 +11,4 @@ Your matlab function should also include the following:
 - Error check that the inputs are the same length.
 - Error check that the x input is equally spaced.
 - Warn the user (not an error, just a warning) if the trapezoidal rule has to be used on the last interval.
+g
