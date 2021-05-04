@@ -2,6 +2,8 @@
 ---
 Consider a box of mass m = 25 kg being pulled by a rope. The force required to move it is given by:
 
+
+
 Let: 
 - μ = 0.55
 - g = 9.81 m/s^2
