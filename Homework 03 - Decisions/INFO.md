@@ -10,3 +10,4 @@ Requirements:
 3. The program should detect non-sensical inputs (ie. h = 46m)
 
 Note: DO NOT use "clear" in your function, it will break the grading scripts and your solutions will all be marked as wrong!
+g
