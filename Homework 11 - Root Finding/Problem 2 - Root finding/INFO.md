@@ -1,8 +1,8 @@
 # Homework 11 - Problem 2 Info
 ---
 Consider a box of mass m = 25 kg being pulled by a rope. The force required to move it is given by:
-<img src = "assets/h1102_0.png" width = "600"> <br />
-<img src = "assets/h1102_1.png" width = "600"> <br />
+<img src = "assets/h1102_0.png" width = "150"> <br />
+<img src = "assets/h1102_1.png" width = "400"> <br />
 
 Let: 
 - μ = 0.55
