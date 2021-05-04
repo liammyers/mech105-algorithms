@@ -7,4 +7,3 @@ Write a function that returns a n x m matrix with elements that have the followi
 - The rest of the elements each has a value equal to the sum of the element above it and element to the left.
 - The function must return a sensible error if the user does not input exactly two arguments
 - The function should be well commented
-v
