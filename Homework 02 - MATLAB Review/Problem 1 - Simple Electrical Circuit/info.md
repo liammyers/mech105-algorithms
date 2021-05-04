@@ -2,6 +2,7 @@
 ---
 Consider a simple electric circuit consisting of a resistor, a capacitor, and an inductor as shown below
 ![image](assets/h0201.png)
+<img src = "assets/h0201.png" width = "200">
 The charge on the capacitor q(t) as a function of time can be computed as:
 
 q(t) = q0*
