@@ -1,6 +1,6 @@
 # Homework 02 - Problem 1 Script Info
 ---
-MATLAB review of variables, built-in functions, `linspace`, `logspace`, `plot` and its related input arguements.<sup>[1](#footnoteUno)</sup>    
+MATLAB review of variables, built-in functions, `linspace`, `logspace`, *plot* and its related input arguements.<sup>[1](#footnoteUno)</sup>    
 
 INPUTS:
 - q0, inital charge
