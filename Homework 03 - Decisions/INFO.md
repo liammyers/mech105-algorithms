@@ -4,6 +4,7 @@ The tank in a water tower has the geometry shown in the figure (the lower part i
 
 If you were doing this problem in real life, the program should ask the user to enter a value of h in m using the input() funtion.
 <img src = "assets/h0301_0.png" width = "500"> <br />
+
 Requirements: 
 1. Solve for the volume when the height h = 20. Store the solution to the volume as variable v. Hint you will need to be able to calculate the volume of water in a cylinder and the volume of water in a cone.
 2. Use fprintf to display the volume of water in cubic meters.
