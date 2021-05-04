@@ -1,6 +1,6 @@
 # Homework 22 - Problem 1 Info
 ---
-Write a general MATLAB function for integrating experimental data using Simpson's 1/3 rule. Your function should check if there are an odd number of intervals, if there are, the trapezoidal rule should be used for the last interval. THe first line of your MATLAB function should look like:
+Write a general MATLAB function for integrating experimental data using Simpson's 1/3 rule. Your function should check if there are an odd number of intervals, if there are, the trapezoidal rule should be used for the last interval. The first line of your MATLAB function should look like:
 
 `function I = Simpson(x,y)`
 
