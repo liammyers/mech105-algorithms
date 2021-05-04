@@ -1,6 +1,6 @@
 # Homework 11 - Problem 1 Script Info
 ---
-MATLAB exercise of variables, built-in functions, and root finding with the false position method.<sup>[1](#footnoteUno)</sup>    
+MATLAB exercise on variables, built-in functions, and root finding with the false position method.<sup>[1](#footnoteUno)</sup>    
 
 INPUTS:
 - func, evaluated function
